@@ -94,7 +94,7 @@ From the project root:
 streamlit run app/streamlit_app.py
 ```
 
-If using a specific Python installation:
+If using a (my) specific Python installation:
 
 ```bash
 /usr/local/bin/python3.10 -m streamlit run app/streamlit_app.py
